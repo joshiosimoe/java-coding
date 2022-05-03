@@ -1,5 +1,10 @@
+import java.util.Scanner;
+import java.Math.lang;
+
 public class Main{
     public static void main(String[]args){
-        System.out.print("Hello World!")
+        Scanenr scan = new Scanner(System.in);
+        System.out.print("Enter Minimum");
+        int min = scan.nextInt();
     }
 }
